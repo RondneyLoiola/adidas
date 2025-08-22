@@ -7,6 +7,8 @@
 <p>-Styled Components - CSS-in-JS para estilização de componentes<br></p>
 <p>-Swiper - Biblioteca para carousels e sliders modernos<br></p>
 
+Para rodar o site:
+-yarn dev
 
 
 
