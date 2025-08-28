@@ -46,8 +46,8 @@ function SliderSwiperOrganizado() {
     // Configuração padrão do Swiper
     const swiperConfig = {
         modules: [Navigation, Pagination, Scrollbar, A11y],
-        spaceBetween: 300,
-        slidesPerView: 6,
+        spaceBetween: 5,
+        slidesPerView: 5,
         scrollbar: { draggable: true }
     };
 
